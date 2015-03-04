@@ -4,3 +4,6 @@
 
 # Ignore compiled Python code
 *.pyc
+
+# Ignore intermediate files
+.DS_Store
